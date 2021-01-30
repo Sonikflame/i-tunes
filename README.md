@@ -1,4 +1,4 @@
-# Медиаплеер "I-Tunes" на JS - Учебный проект
+# Медиаплеер "I-Tunes" на JS
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/i-tunes/](https://sonikflame.github.io/i-tunes/).
 
